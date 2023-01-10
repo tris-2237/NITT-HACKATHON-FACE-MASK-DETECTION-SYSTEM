@@ -1,7 +1,7 @@
 # NITT-HACKATHON-FACE-MASK-DETECTION-SYSTEM
 
 
-## This system focuses on integrating the real time face mask detection with the cctv available in major places to detect the absence of masks since prevention is always better than cure
+## This system focuses on integrating the real time face mask detection with the CCTV available in major places to detect the absence of masks since prevention is always better than cure
 
 ### For protection and prevention against Covid 19 and other infectious diseases
 Wearing a face mask has become an indispensable part of our lives, ever since the coronavirus came 
