@@ -22,3 +22,6 @@ Many doctors are in regular contact with patients who are infected and hence mas
 ## IMPLEMENTATION OF THE PROJECT
 
 This mask recognition system was created by using python libraries and machine learning model in Jupyter Notebook,also by implementing basic skills learned for pre-processing of data science tools.
+
+##SOFTWARE REQUIREMENTS)
+Python 3, Python Libraries (numpy, pandas, os, matplotlib), dlib and face_recognition, OpenCV, Keras, Kaggle(For dataset),Jupyter Notebook, Tensorflow, sklearn , MTCNN
