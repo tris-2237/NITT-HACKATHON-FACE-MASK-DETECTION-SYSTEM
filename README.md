@@ -14,7 +14,7 @@ there is already shortage of personnel in several areas. In such a situation, an
 Detection System comes in vary handy.
 
 ### For protecting the workers against the harmful nuclear radiation
-Many workers die due to the direct contact of the nuclear radiation and hence masks are an absolute essential for the workers who are regular contact with nuclear radiation suuvh as factories and mines.
+Many workers die due to the direct contact of the nuclear radiation and hence masks are an absolute essential for the workers who are regular contact with nuclear radiation suCh as in factories and mines.
 
 ### For protecting doctors and nurses against infectious diseases
 Many doctors are in regular contact with patients who are infected and hence mask plays a major role in helping the doctors and nurses to stay safe.
