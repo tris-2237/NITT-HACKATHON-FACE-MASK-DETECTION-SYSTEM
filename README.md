@@ -8,4 +8,4 @@ imperative that there is some mechanism to check the same, preferably without hu
 there is already shortage of personnel in several areas. In such a situation, an automated Face Mask 
 Detection System comes in vary handy.
 
-#Moreover Masks are an absolute essential for the workers who are regular contact with nuclear radiation.
+# Moreover Masks are an absolute essential for the workers who are regular contact with nuclear radiation.
