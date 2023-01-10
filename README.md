@@ -19,4 +19,6 @@ Many workers die due to the direct contact of the nuclear radiation and hence ma
 ### For protecting doctors and nurses against infectious diseases
 Many doctors are in regular contact with patients who are infected and hence mask plays a major role in helping the doctors and nurses to stay safe.
 
+## IMPLEMENTATION OF THE PROJECT
 
+This mask recognition system was created by using python libraries and machine learning model in Jupyter Notebook,also by implementing basic skills learned for pre-processing of data science tools.
